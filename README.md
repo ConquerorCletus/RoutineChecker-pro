@@ -63,6 +63,7 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 - [Aisha Adewoyin](https://github.com/Aishat452)
 
 # Becoming a Collaborator.
+Check the [CONTRIBUTING.md](CONTRIBUTING.md)
 
 1. Fork the repository.
 2. Create a branch named 'fix' to make adjustment or 'Features' to add a new feature.
